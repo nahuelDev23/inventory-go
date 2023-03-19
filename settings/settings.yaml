@@ -4,6 +4,6 @@ database:
   port: 3306
   user: root
   password: root
-  database: test
+  database: max_inventory
   name: max_inventory
 
